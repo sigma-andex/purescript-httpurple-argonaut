@@ -14,6 +14,8 @@ spago install httpurple-argonaut
 import HTTPurple.Json.Argonaut as Argonaut
 
 ...
-myRequest <- fromJson Argonaut.jsonDriver body
+myRequest <- fromJson Argonaut.jsonDecoder body
+...
+ok $ toJson Argonaut.jsonEncoder myResponse
 ...
 ```
