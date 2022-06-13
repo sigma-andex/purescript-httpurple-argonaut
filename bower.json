@@ -1,0 +1,24 @@
+{
+    "name": "purescript-purescript-httpurple-argonaut",
+    "license": [
+        "MIT-0"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/sigma-andex/purescript-httpurple-argonaut.git"
+    },
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "output"
+    ],
+    "dependencies": {
+        "purescript-argonaut": "^v9.0.0",
+        "purescript-console": "^v6.0.0",
+        "purescript-effect": "^v4.0.0",
+        "purescript-either": "^v6.1.0",
+        "purescript-httpurple": "https://github.com/sigma-andex/purescript-httpurple.git#v1.2.1",
+        "purescript-prelude": "^v6.0.0"
+    }
+}
