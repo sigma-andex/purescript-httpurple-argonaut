@@ -12,9 +12,10 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT-0",
   "bugs": {
     "url": "https://github.com/sigma-andex/purescript-httpurple-argonaut/issues"
   },
-  "homepage": "https://github.com/sigma-andex/purescript-httpurple-argonaut#readme"
+  "homepage": "https://github.com/sigma-andex/purescript-httpurple-argonaut#readme",
+  "type": "module"
 }
