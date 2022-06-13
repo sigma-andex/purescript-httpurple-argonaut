@@ -1,4 +1,4 @@
-{ name = "purescript-httpurple-argonaut"
+{ name = "httpurple-argonaut"
 , dependencies =
   [ "argonaut"
   , "console"
